@@ -1,0 +1,144 @@
+{
+    "endpoint": {
+        "url": "https://rest.domain.com/user/{userId}",
+        "verb": "GET"
+    },
+    "payloads" : [
+        {
+            "path" : {
+                "userId" : "14"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        },
+        {
+            "path" : {
+                "userId" : "29"
+            },
+            "body" : {
+                "age" : 4
+            }
+        },
+        {
+            "path" : {
+                "userId" : "103"
+            },
+            "body" : {
+                "age" : 30
+            }
+        }
+    ]
+}
